@@ -4,5 +4,29 @@
     "sounds": [
       "4jmenu/sounds/focus"
     ]
+  },
+  "music.menu.1": {
+    "category": "master",
+    "sounds": [
+      "4jmenu/music/menu1"
+    ]
+  },
+  "music.menu.2": {
+    "category": "master",
+    "sounds": [
+      "4jmenu/music/menu2"
+    ]
+  },
+  "music.menu.3": {
+    "category": "master",
+    "sounds": [
+      "4jmenu/music/menu3"
+    ]
+  },
+  "music.menu.4": {
+    "category": "master",
+    "sounds": [
+      "4jmenu/music/menu4"
+    ]
   }
 }
