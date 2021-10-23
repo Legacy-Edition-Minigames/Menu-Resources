@@ -10,8 +10,8 @@
         {
             "type": "bitmap",
             "file": "4jmenu:menu/join/battle.png",
-            "ascent": 183,
-            "height": 183,
+            "ascent": 50,
+            "height": 92,
             "chars": [
                 "1"
             ]
@@ -19,8 +19,8 @@
         {
             "type": "bitmap",
             "file": "4jmenu:menu/join/tumble.png",
-            "ascent": 183,
-            "height": 183,
+            "ascent": 50,
+            "height": 92,
             "chars": [
                 "2"
             ]
@@ -28,8 +28,8 @@
         {
             "type": "bitmap",
             "file": "4jmenu:menu/join/glide.png",
-            "ascent": 183,
-            "height": 183,
+            "ascent": 50,
+            "height": 92,
             "chars": [
                 "3"
             ]

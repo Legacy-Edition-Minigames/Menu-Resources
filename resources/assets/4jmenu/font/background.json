@@ -10,8 +10,8 @@
         {
             "type": "bitmap",
             "file": "4jmenu:background.png",
-            "ascent": 2,
-            "height": 58,
+            "ascent": 15,
+            "height": 1088,
             "chars": [
                 "1"
             ]

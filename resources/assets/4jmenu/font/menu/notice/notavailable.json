@@ -9,9 +9,9 @@
         },
         {
             "type": "bitmap",
-            "file": "4jmenu:menu/error/notavailable.png",
-            "ascent": 73,
-            "height": 73,
+            "file": "4jmenu:menu/notice/notavailable.png",
+            "ascent": 60,
+            "height": 71,
             "chars": [
                 "1"
             ]

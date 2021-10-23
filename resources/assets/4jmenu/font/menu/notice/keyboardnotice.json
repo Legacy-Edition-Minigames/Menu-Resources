@@ -9,8 +9,8 @@
         },
         {
             "type": "bitmap",
-            "file": "4jmenu:menu/error/keyboardnotice.png",
-            "ascent": 73,
+            "file": "4jmenu:menu/notice/keyboardnotice.png",
+            "ascent": 60,
             "height": 95,
             "chars": [
                 "1"
