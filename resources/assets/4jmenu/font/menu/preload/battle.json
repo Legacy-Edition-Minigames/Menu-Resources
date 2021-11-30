@@ -9,7 +9,7 @@
         },
         {
             "type": "bitmap",
-            "file": "4jmenu:menu/preload/battle.png",
+            "file": "4jmenu:menu/preload/battle/vanilla.png",
             "ascent": 50,
             "height": 92,
             "chars": [
@@ -18,7 +18,7 @@
         },
         {
             "type": "bitmap",
-            "file": "4jmenu:menu/preload/tumble.png",
+            "file": "4jmenu:menu/preload/battle/optifine.png",
             "ascent": 50,
             "height": 92,
             "chars": [
@@ -27,7 +27,7 @@
         },
         {
             "type": "bitmap",
-            "file": "4jmenu:menu/preload/glide.png",
+            "file": "4jmenu:menu/preload/battle/goback.png",
             "ascent": 50,
             "height": 92,
             "chars": [
