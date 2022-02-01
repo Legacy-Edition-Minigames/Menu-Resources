@@ -9,29 +9,38 @@
         },
         {
             "type": "bitmap",
-            "file": "4jmenu:menu/options/panorama/scale.png",
-            "ascent": 50,
-            "height": 92,
+            "file": "4jmenu:panorama/5/day/1.png",
+            "ascent": 15,
+            "height": 275,
             "chars": [
                 "1"
             ]
         },
         {
             "type": "bitmap",
-            "file": "4jmenu:menu/options/panorama/background.png",
-            "ascent": 50,
-            "height": 92,
+            "file": "4jmenu:panorama/5/day/2.png",
+            "ascent": 15,
+            "height": 275,
             "chars": [
                 "2"
             ]
         },
         {
             "type": "bitmap",
-            "file": "4jmenu:menu/options/panorama/goback.png",
-            "ascent": 50,
-            "height": 92,
+            "file": "4jmenu:panorama/5/day/3.png",
+            "ascent": 15,
+            "height": 275,
             "chars": [
                 "3"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jmenu:panorama/5/day/4.png",
+            "ascent": 15,
+            "height": 275,
+            "chars": [
+                "4"
             ]
         }
     ]

@@ -9,7 +9,7 @@
         },
         {
             "type": "bitmap",
-            "file": "4jmenu:menu/options/panorama/scale.png",
+            "file": "4jmenu:menu/options/panorama/background/select.png",
             "ascent": 50,
             "height": 92,
             "chars": [
@@ -18,7 +18,7 @@
         },
         {
             "type": "bitmap",
-            "file": "4jmenu:menu/options/panorama/background.png",
+            "file": "4jmenu:menu/options/panorama/background/toggle.png",
             "ascent": 50,
             "height": 92,
             "chars": [
@@ -27,7 +27,7 @@
         },
         {
             "type": "bitmap",
-            "file": "4jmenu:menu/options/panorama/goback.png",
+            "file": "4jmenu:menu/options/panorama/background/goback.png",
             "ascent": 50,
             "height": 92,
             "chars": [
