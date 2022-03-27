@@ -1,0 +1,20 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "4jmenu:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        },
+        {
+            "type": "bitmap",
+            "file": "4jmenu:menu/button/icon/goback.png",
+            "ascent": 31,
+            "height": 92,
+            "chars": [
+                "1"
+            ]
+        }
+    ]
+}
