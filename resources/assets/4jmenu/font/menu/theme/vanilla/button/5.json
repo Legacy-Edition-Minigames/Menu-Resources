@@ -1,0 +1,29 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "4jmenu:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        },
+        {
+            "type": "bitmap",
+            "file": "4jmenu:menu/theme/vanilla/button/selected.png",
+            "ascent": 2,
+            "height": 92,
+            "chars": [
+                "1"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "4jmenu:menu/theme/vanilla/button/unselected.png",
+            "ascent": 2,
+            "height": 92,
+            "chars": [
+                "2"
+            ]
+        }
+    ]
+}
