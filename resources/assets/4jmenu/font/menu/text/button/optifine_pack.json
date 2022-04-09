@@ -9,11 +9,11 @@
         },
         {
             "type": "bitmap",
-            "file": "4jmenu:menu/theme/vanilla/button/icon/optifine.png",
-            "ascent": 41,
+            "file": "4jmenu:menu/text/en_us/button/optifine_pack.png",
+            "ascent": 39,
             "height": 92,
             "chars": [
-                "1"
+                "\uF000"
             ]
         }
     ]
