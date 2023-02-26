@@ -1,8 +1,26 @@
 {
+  "sound.menu.scroll": {
+    "category": "master",
+    "sounds": [
+      "4jmenu/sounds/scroll"
+    ]
+  },
   "sound.menu.focus": {
     "category": "master",
     "sounds": [
       "4jmenu/sounds/focus"
+    ]
+  },
+  "sound.menu.back": {
+    "category": "master",
+    "sounds": [
+      "4jmenu/sounds/back"
+    ]
+  },
+  "sound.menu.press": {
+    "category": "master",
+    "sounds": [
+      "random/click_stereo"
     ]
   },
   "music.menu.1": {

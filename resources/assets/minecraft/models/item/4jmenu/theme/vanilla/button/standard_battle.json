@@ -1,0 +1,7 @@
+{
+  "parent": "item/4jmenu/ui/button/standard",
+  "textures": {
+		"0": "4jmenu/theme/vanilla/button/standard",
+		"icon": "4jmenu/theme/vanilla/icon/battle"
+  }
+}
