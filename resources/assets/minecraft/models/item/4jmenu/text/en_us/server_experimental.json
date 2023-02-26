@@ -1,6 +1,0 @@
-{
-  "parent": "item/4jmenu/text/text",
-  "textures": {
-		"0": "4jmenu/text/en_us/server_experimental"
-  }
-}
