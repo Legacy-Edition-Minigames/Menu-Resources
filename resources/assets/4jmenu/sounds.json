@@ -23,6 +23,12 @@
       "random/click_stereo"
     ]
   },
+  "sound.menu.fail": {
+    "category": "master",
+    "sounds": [
+      "4jmenu/sounds/fail"
+    ]
+  },
   "music.menu.1": {
     "category": "master",
     "sounds": [
